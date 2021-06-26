@@ -1,0 +1,18 @@
+body{
+    background: #ddd;
+}
+.image__gallery{
+    text-align: center;
+    font-family: audiowide;
+    font-size: 20px;
+}
+.image__gallery__image{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    margin: 0 20px 20px;
+}
